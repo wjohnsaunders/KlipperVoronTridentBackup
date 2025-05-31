@@ -1,2 +1,3 @@
-# KlipperConfigurations
-My Klipper configuration files
+# KlipperVoronTridentBackup
+
+Back of Klipper configuration for my Voron Trident 3D printer
